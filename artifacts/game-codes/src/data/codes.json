@@ -10,33 +10,49 @@
     ]
   },
   {
-    "code": "RELEASE100K",
-    "expiration": 1777075200,
-    "requirements": [],
+    "code": "2kmembersoon",
+    "expiration": 1777046400,
+    "requirements": ["Soaring Badge"],
     "rewards": [
-      "50000 Money",
-      "100 BP"
+      "1x Random (shinifier / goldbottlecap / abilitypatch)",
+      "5x masterball",
+      "Shiny 3x31 Metang",
+      "150000 Money",
+      "200 BP"
     ]
   },
   {
-    "code": "WELCOMEBACK",
-    "expiration": 1743897600,
-    "requirements": ["Level 10"],
+    "code": "WoooLol",
+    "expiration": 1776700800,
+    "requirements": [],
     "rewards": [
-      "10000 Money",
-      "5x Rare Candy",
-      "50 BP"
+      "25x rarecandy",
+      "Random Shiny 3x31 (Malamar / Gengar / Zoroark / Zekrom)",
+      "1h XP Ro-Power",
+      "1h Hatching Ro-Power",
+      "1h Pokedollars Ro-Power",
+      "1h EVs Ro-Power",
+      "1h Shiny Ro-Power",
+      "150000 Money",
+      "150 BP"
     ]
   },
   {
-    "code": "SPRINGEVENT2026",
-    "expiration": 1780358400,
+    "code": "EternityIsBack",
+    "expiration": 1776700800,
     "requirements": [],
     "rewards": [
-      "75000 Money",
-      "150 BP",
-      "10x Rare Candy",
-      "1x Mystery Box"
+      "25x rarecandy",
+      "5x masterball",
+      "1x shinifier",
+      "Random Shiny 3x31 (Malamar / Gengar / Zoroark / Zekrom)",
+      "1h XP Ro-Power",
+
+      "1h Hatching Ro-Power",
+      "1h Pokedollars Ro-Power",
+      "1h EVs Ro-Power",
+      "1h Shiny Ro-Power",
+      "1h Legendaries Ro-Power"
     ]
   }
 ]
