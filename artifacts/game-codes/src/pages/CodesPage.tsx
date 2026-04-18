@@ -149,7 +149,7 @@ export default function CodesPage() {
       <header className="border-b border-border bg-card/60 backdrop-blur-sm sticky top-0 z-20">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold tracking-tight">Game Codes</h1>
+            <h1 className="text-xl font-bold tracking-tight">Bronze Eternity Codes</h1>
             <p className="text-xs text-muted-foreground mt-0.5">
               {active.length} active &middot; {expired.length} expired
             </p>
