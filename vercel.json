@@ -1,0 +1,14 @@
+{
+  "buildCommand": "pnpm --filter @workspace/game-codes run build",
+  "outputDirectory": "artifacts/game-codes/dist/public",
+  "installCommand": "pnpm install",
+  "framework": null,
+  "build": {
+    "env": {
+      "BASE_PATH": "/"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
