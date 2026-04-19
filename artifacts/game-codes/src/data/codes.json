@@ -1,5 +1,16 @@
 [
   {
+    "code": "ReuploadCodes",
+    "expiration": 1777132800,
+    "requirements": [],
+    "rewards": [
+      "150000 Money",
+      "1x Random (shinifier / goldbottlecap / abilitypatch)",
+      "150000 Money",
+      "150 BP"
+    ]
+  },
+  {
     "code": "LackOfIdeaForCodes",
     "expiration": 1777046400,
     "requirements": ["Soaring Badge"],
