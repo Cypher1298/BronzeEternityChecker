@@ -1,4 +1,17 @@
 [
+    {
+    "code": "EternityOnTop",
+    "expiration": 1779724800,
+    "requirements": [],
+    "rewards": [
+      "15x rarecandy",
+      "1x Random (shinifier / goldbottlecap / abilitypatch)",
+      "Random 1/15 3x31 (Gengar / Dusknoir / Calamitous Hive)",
+      "150000 Money",
+      "200 BP",
+      "1h Random Ro-Power (6 options)"
+    ]
+  },
   {
     "code": "ReuploadCodes",
     "expiration": 1777132800,
