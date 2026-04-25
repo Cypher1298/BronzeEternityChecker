@@ -1,4 +1,24 @@
 [
+     {
+    "code": "NewCodess",
+    "expiration": 1777392000,
+    "requirements": ["Harvest Badges"],
+    "rewards": [
+      "Random Shiny 4x31 (Rapidash / Blastoise / Sceptile)"
+    ]
+  },
+    {
+    "code": "MoreUpdateSoon",
+    "expiration": 1777392000,
+    "requirements": ["Harvest Badges"],
+    "rewards": [
+      "35x rarecandy",
+      "1x Random (shinifier / goldbottlecap / abilitypatch)",
+      "300000 Money",
+      "300 BP",
+      "1h Shiny Ro-Power"
+    ]
+  },
     {
     "code": "EternityOnTop",
     "expiration": 1777132800,
