@@ -1,5 +1,27 @@
 [
      {
+    "code": "HolyFart",
+    "expiration": 1777996800,,
+    "requirements": ["Soaring Badges"],
+    "rewards": [
+      "Random Shiny 4x31 (Voltorb / Raichu / Manetric)",
+      "150000 Money",
+      "200 BP",
+      "1h of every ropower",
+    ]
+  },
+     {
+    "code": "GottaCatchEmAll",
+    "expiration": 1777996800,,
+    "requirements": ["Soaring Badges"],
+    "rewards": [
+      "1x Random (shinifier / abilitypatch / goldbottlecap)",
+      "150000 Money",
+      "200 BP",
+      "1h of every ropower",
+    ]
+  },
+     {
     "code": "NewCodess",
     "expiration": 1777392000,
     "requirements": ["Harvest Badges"],
