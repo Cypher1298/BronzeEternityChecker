@@ -1,5 +1,5 @@
 [
-    {
+  {
     "code": "HolyFart",
     "expiration": 1777996800,,
     "requirements": ["Soaring Badges"],
@@ -10,7 +10,7 @@
       "1h of every ropower",
     ]
   },
-    {
+  {
     "code": "GottaCatchEmAll",
     "expiration": 1777996800,,
     "requirements": ["Soaring Badges"],
@@ -21,7 +21,7 @@
       "1h of every ropower",
     ]
   },
-    {
+  {
     "code": "NewCodess",
     "expiration": 1777392000,
     "requirements": ["Harvest Badges"],
@@ -29,7 +29,7 @@
       "Random Shiny 4x31 (Rapidash / Blastoise / Sceptile)"
     ]
   },
-    {
+  {
     "code": "MoreUpdateSoon",
     "expiration": 1777392000,
     "requirements": ["Harvest Badges"],
@@ -41,7 +41,7 @@
       "1h Shiny Ro-Power"
     ]
   },
-    {
+  {
     "code": "EternityOnTop",
     "expiration": 1777132800,
     "requirements": [],
