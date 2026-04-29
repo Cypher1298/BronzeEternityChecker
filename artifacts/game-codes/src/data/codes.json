@@ -1,7 +1,7 @@
 [
   {
     "code": "HolyFart",
-    "expiration": 1777996800,,
+    "expiration": 1777996800,
     "requirements": ["Soaring Badges"],
     "rewards": [
       "Random Shiny 4x31 (Voltorb / Raichu / Manetric)",
@@ -12,7 +12,7 @@
   },
   {
     "code": "GottaCatchEmAll",
-    "expiration": 1777996800,,
+    "expiration": 1777996800,
     "requirements": ["Soaring Badges"],
     "rewards": [
       "1x Random (shinifier / abilitypatch / goldbottlecap)",
