@@ -2,29 +2,35 @@
   {
     "code": "HolyFart",
     "expiration": 1777996800,
-    "requirements": ["Soaring Badges"],
+    "requirements": [
+      "Soaring Badges"
+    ],
     "rewards": [
       "Random Shiny 4x31 (Voltorb / Raichu / Manetric)",
       "150000 Money",
       "200 BP",
-      "1h of every ropower",
+      "1h of every ropower"
     ]
   },
   {
     "code": "GottaCatchEmAll",
     "expiration": 1777996800,
-    "requirements": ["Soaring Badges"],
+    "requirements": [
+      "Soaring Badges"
+    ],
     "rewards": [
       "1x Random (shinifier / abilitypatch / goldbottlecap)",
       "150000 Money",
       "200 BP",
-      "1h of every ropower",
+      "1h of every ropower"
     ]
   },
   {
     "code": "NewCodess",
     "expiration": 1777392000,
-    "requirements": ["Harvest Badges"],
+    "requirements": [
+      "Harvest Badges"
+    ],
     "rewards": [
       "Random Shiny 4x31 (Rapidash / Blastoise / Sceptile)"
     ]
@@ -32,7 +38,9 @@
   {
     "code": "MoreUpdateSoon",
     "expiration": 1777392000,
-    "requirements": ["Harvest Badges"],
+    "requirements": [
+      "Harvest Badges"
+    ],
     "rewards": [
       "35x rarecandy",
       "1x Random (shinifier / goldbottlecap / abilitypatch)",
@@ -68,7 +76,9 @@
   {
     "code": "LackOfIdeaForCodes",
     "expiration": 1777046400,
-    "requirements": ["Soaring Badge"],
+    "requirements": [
+      "Soaring Badge"
+    ],
     "rewards": [
       "150000 Money",
       "200 BP",
@@ -78,7 +88,9 @@
   {
     "code": "2kmembersoon",
     "expiration": 1777046400,
-    "requirements": ["Soaring Badge"],
+    "requirements": [
+      "Soaring Badge"
+    ],
     "rewards": [
       "1x Random (shinifier / goldbottlecap / abilitypatch)",
       "5x masterball",
@@ -113,7 +125,6 @@
       "1x shinifier",
       "Random Shiny 3x31 (Malamar / Gengar / Zoroark / Zekrom)",
       "1h XP Ro-Power",
-
       "1h Hatching Ro-Power",
       "1h Pokedollars Ro-Power",
       "1h EVs Ro-Power",
