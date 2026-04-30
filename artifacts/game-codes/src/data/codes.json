@@ -1,5 +1,17 @@
 [
   {
+    "code": "Reuploadyay",
+    "expiration": 1777651200,
+    "requirements": [
+      "Arc Badge"
+    ],
+    "rewards": [
+      "1x Random (basicluckyblock / bronzeluckyblock / silverluckyblock / goldluckyblock / diamondluckyblock / platinumluckyblock / shinyluckyblock)",
+      "150000 Money",
+      "150 BP"
+    ]
+  },
+  {
     "code": "HolyFart",
     "expiration": 1777996800,
     "requirements": [
